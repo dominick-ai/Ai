@@ -1,0 +1,21 @@
+Third-party notices
+===================
+
+Better Chat
+-----------
+https://github.com/oscabriel/better-chat
+The repository README identifies the project as MIT-licensed. This rebuild uses it as an architecture reference; no source files from its React/TanStack application are included.
+
+Cloudflare LLM Chat Application Template
+----------------------------------------
+https://github.com/cloudflare/llm-chat-app-template
+The template's src/index.ts identifies its code as MIT-licensed. Its Workers AI binding and streaming response approach informed the replacement Worker integration.
+
+Customizable AI Chatbot
+-----------------------
+https://github.com/hoangsonww/Customizable-AI-Chatbot
+MIT License, Copyright (c) 2025-2026 Son Nguyen.
+The required attribution is displayed in the Tabo AI page footer:
+"Developed by Son Nguyen in 2025" — https://sonnguyenhoang.com
+
+No third-party repository's complete application has been copied into this archive.

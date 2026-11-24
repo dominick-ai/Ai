@@ -1,0 +1,17 @@
+{
+  "name": "tabo-ai-keyless-backend",
+  "version": "2.9.8",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "test:keyless": "node tests/keyless-smoke.mjs"
+  },
+  "dependencies": {
+    "@libsql/client": "^0.15.15",
+    "express": "^4.21.2"
+  }
+}
